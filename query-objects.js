@@ -2,7 +2,7 @@ import { Elasticsearch } from './src/elasticsearch.js';
 import { GridConverter } from './src/grid-converter.js'
 const apiKey = 'WmF1czVZNEJlSHJxcEVyNjBSVFE6UV9jN0ttUGlTUm1uUi0wdm1vOU1BQQ==';
 
-const objectsElasticService = new Elasticsearch({ indexName: 'objects_test', apiKey });
+const objectsElasticService = new Elasticsearch({ indexName: 'objects', apiKey });
 const gridConverter = new GridConverter();
 
 const data = await objectsElasticService.queryObjects();
@@ -14,5 +14,4 @@ const objectsClusters = bucketsList.map(bucket => ({
   bucket,
 }));
 
-console.log(bucketsList);
 console.log(objectsClusters);
