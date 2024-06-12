@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "Saint Sophia Cathedral",
+    "type": "cathedral",
+    "city": "Kyiv",
+    "location": { "lat": 50.4522, "lon": 30.5144 }
+  },
+  {
+    "id": "2",
+    "title": "Kiev Pechersk Lavra",
+    "type": "monastery",
+    "city": "Kyiv",
+    "location": { "lat": 50.4346, "lon": 30.5579 }
+  },
+  {
+    "id": "3",
+    "title": "Motherland Monument",
+    "type": "monument",
+    "city": "Kyiv",
+    "location": { "lat": 50.4265, "lon": 30.5634 }
+  },
+  {
+    "id": "4",
+    "title": "Lviv Theatre of Opera and Ballet",
+    "type": "theater",
+    "city": "Lviv",
+    "location": { "lat": 49.8443, "lon": 24.0260 }
+  },
+  {
+    "id": "5",
+    "title": "Odessa Opera and Ballet Theater",
+    "type": "theater",
+    "city": "Odessa",
+    "location": { "lat": 46.4846, "lon": 30.7326 }
+  },
+  {
+    "id": "6",
+    "title": "Potemkin Stairs",
+    "type": "stairway",
+    "city": "Odessa",
+    "location": { "lat": 46.4870, "lon": 30.7410 }
+  },
+  {
+    "id": "7",
+    "title": "Tunnel of Love",
+    "type": "attraction",
+    "city": "Klevan",
+    "location": { "lat": 50.7501, "lon": 25.3067 }
+  },
+  {
+    "id": "8",
+    "title": "Chernobyl Exclusion Zone",
+    "type": "historical site",
+    "city": "Chernobyl",
+    "location": { "lat": 51.2760, "lon": 30.2213 }
+  },
+  {
+    "id": "9",
+    "title": "St. Michael's Golden-Domed Monastery",
+    "type": "monastery",
+    "city": "Kyiv",
+    "location": { "lat": 50.4530, "lon": 30.5211 }
+  },
+  {
+    "id": "10",
+    "title": "Khreshchatyk Street",
+    "type": "street",
+    "city": "Kyiv",
+    "location": { "lat": 50.4478, "lon": 30.5205 }
+  },
+  {
+    "id": "11",
+    "title": "Maidan Nezalezhnosti",
+    "type": "square",
+    "city": "Kyiv",
+    "location": { "lat": 50.4501, "lon": 30.5234 }
+  },
+  {
+    "id": "12",
+    "title": "Golden Gate",
+    "type": "historical site",
+    "city": "Kyiv",
+    "location": { "lat": 50.4483, "lon": 30.5133 }
+  },
+  {
+    "id": "13",
+    "title": "Andriyivskyy Descent",
+    "type": "street",
+    "city": "Kyiv",
+    "location": { "lat": 50.4581, "lon": 30.5186 }
+  },
+  {
+    "id": "14",
+    "title": "Dnieper River",
+    "type": "river",
+    "city": "Dnipropetrovsk",
+    "location": { "lat": 48.4500, "lon": 35.0500 }
+  },
+  {
+    "id": "15",
+    "title": "Kharkiv Freedom Square",
+    "type": "square",
+    "city": "Kharkiv",
+    "location": { "lat": 50.0048, "lon": 36.2312 }
+  }
+]
